@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CwlCatchException",
+        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
+        "state": {
+          "branch": null,
+          "revision": "682841464136f8c66e04afe5dbd01ab51a3a56f2",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "CwlPreconditionTesting",
+        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting",
+        "state": {
+          "branch": null,
+          "revision": "c21f7bab5ca8eee0a9998bbd17ca1d0eb45d4688",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "FeatureConfig",
+        "repositoryURL": "https://github.com/rogerluan/FeatureConfig",
+        "state": {
+          "branch": "main",
+          "revision": "d59bf696ec586cebc54103f38b346569ce54aaa6",
+          "version": null
+        }
+      },
+      {
+        "package": "LaunchDarkly",
+        "repositoryURL": "https://github.com/launchdarkly/ios-client-sdk",
+        "state": {
+          "branch": null,
+          "revision": "7e24a7af6fab63f82cf384f68ea0082f646ab90f",
+          "version": "5.4.3"
+        }
+      },
+      {
+        "package": "JSEN",
+        "repositoryURL": "https://github.com/rogerluan/JSEN",
+        "state": {
+          "branch": null,
+          "revision": "dd73b21b170e002c709e397dbfa915c30b47a53b",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "LDSwiftEventSource",
+        "repositoryURL": "https://github.com/LaunchDarkly/swift-eventsource.git",
+        "state": {
+          "branch": null,
+          "revision": "7c40adad054c9737afadffe42a2ce0bbcfa02f48",
+          "version": "1.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
